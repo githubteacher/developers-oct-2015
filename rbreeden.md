@@ -1,6 +1,7 @@
 # GitHub Student
 
-* Name: hello
-* Location: here
-* Username: hello
-* New comment
+* **Name:** hello
+* **Location:** here
+* **Username:** hello
+* *New comment*
+* *tbd*
