@@ -1,3 +1,5 @@
 # Gitbub student
 
-* location:  VA
+* **location:  VA
+* **login**: @xftian
+* *breakfast: milk
