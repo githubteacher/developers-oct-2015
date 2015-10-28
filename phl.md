@@ -1,4 +1,4 @@
-# PHL
+# PHIL
 * Location: Berlin, Germany
-* State: sleepy :-D
+* State: sleepy :-D and excited
 * Favourite deciduous tree: maples
