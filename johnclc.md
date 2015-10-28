@@ -1,7 +1,7 @@
 # johnclc
 
-- Name: John
-- Username: @johnclc
-- Location: London, UK
+- **Name:** John
+- **Username:** @johnclc
+- **Location:** London, UK
 
-I am a developer
+*I am a developer*
