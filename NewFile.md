@@ -1,5 +1,5 @@
 #16 sophiaxzhou
 
-StudentID: sophiaxzhou
-
+Username: sophiaxzhou
+Location: Seattle, WA
 Date: 10/28
