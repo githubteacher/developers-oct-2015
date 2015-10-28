@@ -1,7 +1,7 @@
 # GitHub Training tallmanbrew
 
-* Name: Tallman
+* Name: **Tallman**
 * Location: Indiana
 * UserName: @tallmanbrew
-* twitter: @tallmanbrew
+* *twitter:* @tallmanbrew
 * Number of fingers: 10, boring :)
