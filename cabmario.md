@@ -1,6 +1,6 @@
 # Cabmario
 
-* Name: Mario
-* Location: Costa Rica
-* Username: @cabmario
-* Favorite place: Costa Rica
+* **Name:** Mario
+* **Location:** Costa Rica
+* **Username:** @cabmario
+* **Favorite place:** Costa Rica
