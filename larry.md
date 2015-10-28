@@ -1,4 +1,4 @@
-# Add bio for Larry
+# Add bio for LarryStout
 * Name: Larry
 * Location: Fishers
 * User Name: @LarryStout
