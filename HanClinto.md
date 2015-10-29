@@ -5,3 +5,4 @@
 * Username: @hanclinto
 * Favorite Dessert: :cake:
 * Favorite Lunch: :hamburger:
+* Favorite Difficulty: :hurtrealbad:
