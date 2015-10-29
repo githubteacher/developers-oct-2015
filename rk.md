@@ -1,5 +1,6 @@
 # Github Student - Rich Kirkland
 
-* Rich Kirkland
-* Michigan
-* @rkirkland
+* **Name:** Rich Kirkland
+* **Location:** Michigan
+* **Username:** @rkirkland
+* **Dinner:** roast beef
