@@ -3,4 +3,5 @@
 * **Name:** Ty
 * **Location:** Leesburg, Va
 * **Username:** @TyCage
-* **Hobbies:** Boardgames and video games.
+* **Hobbies:** Boardgames, video games, and reading.
+* **Charity:** Extra Life http://bit.ly/TazerOne
