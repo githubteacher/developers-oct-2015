@@ -1,4 +1,4 @@
-# GitHub Student
+# Aaron Weckerly
 
 * **Name:** Aaron Weckerly
 * **Location:** Pittsburgh, PA
