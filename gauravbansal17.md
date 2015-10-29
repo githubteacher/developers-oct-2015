@@ -1,4 +1,4 @@
-# Hi, my name is GitHub training
+# Hi, my name is Gaurav Bansal
 
 * **Name:** Gaurav Bansal
 * **Location:** Bangalore
