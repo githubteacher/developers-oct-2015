@@ -2,5 +2,6 @@
 
 * Hello world
 * Test Test
-* My favorite food is strawberry
+* My favorite food is not strawberry anymore
 * editing from my local repo
+* dinner pizza
