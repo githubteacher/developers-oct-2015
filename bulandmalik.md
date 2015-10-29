@@ -1,4 +1,4 @@
-# GitHub Student
+# Buland Malik
 
 * Name: Buland Malik
 * Location: Santa Clara, CA
