@@ -1,4 +1,4 @@
-# Ty Some Other Change
+# Ty Some Other Change that was Conflicted, but now is not.
 
 * Name: Ty
 * Location: Leesburg, Va
