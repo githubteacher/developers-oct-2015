@@ -1,4 +1,4 @@
-# GitHub Student
+# Joshua Wehner
 
 * **Name:** GitHub Student
 * **Location:** Minneapolis, MN
