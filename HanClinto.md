@@ -1,4 +1,4 @@
-# HanClinto
+# Clint Herron
 
 * Name: HanClinto
 * Location: Cincinnati, OH
