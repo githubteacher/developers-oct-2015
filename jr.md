@@ -1,4 +1,4 @@
-# GitHub Student
+# Joshua Wehner
 
 * **Name:** Chris Collinsworth
 * **Location:** Minneapolis, MN
