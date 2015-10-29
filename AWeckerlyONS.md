@@ -1,4 +1,5 @@
-# Hi, My name is Aaron Weckerly
+# Aaron Weckerly
+
 
 * **Name:** Aaron Weckerly
 * **Location:** Pittsburgh, PA
