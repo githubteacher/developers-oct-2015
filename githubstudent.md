@@ -1,4 +1,4 @@
-# Hi, my name is GitHub Student
+# Hi, my name is Joshua Wehner
 
 * **Name:** GitHub Student
 * **Location:** Minneapolis, MN
