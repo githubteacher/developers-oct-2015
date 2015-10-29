@@ -1,5 +1,5 @@
-# PHIL
+# PHIL is short name
 * Location: Berlin, Germany
 * State: sleepy :-D and excited
 * Favourite deciduous tree: maples
-* **Sorry** for committing to master.
+* Day2 is full of surprises.
