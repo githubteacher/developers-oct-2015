@@ -1,4 +1,4 @@
-# Hiu my name is Buland A Malik
+# Hi, my name is Buland Malik
 
 * Name: Buland Malik
 * Location: Santa Clara, CA
