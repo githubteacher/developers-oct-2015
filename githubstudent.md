@@ -2,7 +2,7 @@
 
 * **Name:** Joshua Wehner
 * **Location:** Minneapolis, MN
-* **Username:** @githubstudent
+* **Username:** @jaw6
 * **Martini preference:** shaken not stirred
 * **Breakfast:** toast
 * **Dinner**: spaghetti
