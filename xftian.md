@@ -2,4 +2,5 @@
 
 * **location:  VA
 * **login**: @xftian
-* *breakfast: milk
+* *breakfast: spread and butter
+* **Dinner**: spaghetti
