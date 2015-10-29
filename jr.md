@@ -1,4 +1,4 @@
-# GitHub Student
+# Hi, my name is GitHub Student
 
 * Name: Chris Collinsworth
 * Location: Minneapolis, MN
