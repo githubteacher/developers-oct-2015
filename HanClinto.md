@@ -1,4 +1,4 @@
-# HanClinto
+# Han Clinto of the Correlian Empire
 
 * Name: HanClinto
 * Location: Cincinnati, OH
