@@ -1,4 +1,4 @@
-# GitHub training class
+# Gaurav Bansal
 
 * **Name:** Gaurav Bansal
 * **Location:** Bangalore
