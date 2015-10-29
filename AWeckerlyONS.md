@@ -1,4 +1,4 @@
-# GitHub Student
+# Hi, My name is Aaron Weckerly
 
 * **Name:** Aaron Weckerly
 * **Location:** Pittsburgh, PA
