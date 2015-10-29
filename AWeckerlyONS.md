@@ -4,3 +4,5 @@
 * **Location:** Pittsburgh, PA
 * **Weather:** Very rainy and cloudy
 * **UserName:** @AWeckerlyONS
+* **Dinner:** Pulled Pork Sandwich
+* **Beverage:** Apple Juice
