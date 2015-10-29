@@ -1,6 +1,6 @@
 # Hi, my name is Joshua Wehner
 
-* **Name:** James Bond
+* **Name:** GitHub Student
 * **Location:** Minneapolis, MN
 * **Username:** @githubstudent
 * **Martini preference:** shaken not stirred
