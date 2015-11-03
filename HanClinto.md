@@ -3,6 +3,6 @@
 * Name: HanClinto
 * Location: Cincinnati, OH
 * Username: @hanclinto
-* Favorite Dessert: :cake:
+* Favorite Dessert: :icecream: :ice_cream:
 * Favorite Lunch: :hamburger:
-* Favorite Difficulty: :hurtrealbad:
+* Favorite Difficulty: :rage1: :rage2: :rage3:
