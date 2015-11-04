@@ -1,7 +1,7 @@
 # GitHub Student
 
 * Name: Glenn Carnagey
-* Location: Minneapolis, MN
+* Location: Austin, TX
 * Username: @gcarnagey
-* Martini preference: not at all actually, sorry
-* Breakfast: toast
+* Martini preference: really dirty Tito's
+* Breakfast: bacon and eggs

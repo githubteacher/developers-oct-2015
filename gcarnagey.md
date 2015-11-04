@@ -3,4 +3,5 @@
 * **Name**: Glenn Carnagey
 * **Location**: Austin, TX
 * **User**: gcarnagey
-* *Typee Typee gobbledygook pease porridge hot*
+* *Typee Typee pease porridge hot*
+* Breakfast: Bacon and Eggs
