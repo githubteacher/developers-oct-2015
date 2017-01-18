@@ -1,3 +1,4 @@
 # Bio
-* Name: danny-hcs
-* Location: Home
+* Name: **danny-hcs**
+* Location: *Home!*
+* New Line
